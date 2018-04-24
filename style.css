@@ -215,4 +215,31 @@ body {
     background: #4aaaa5;
     border: 0 none;
   }
+  @media screen and (max-width: 980px) {
+    
+    body {
+      background: mediumslateblue;
+    }
+  
+    }
+  @media screen and (max-width: 768px) {
+      /* The body's bg color will be #333 */
+      body {
+        background:mediumslateblue
+      }
+      head{
+        position:static;
+      }
+    }
+  @media screen and (max-width: 768px) {
+      /* The body's bg color will be #333 */
+      body {
+        background:mediumslateblue;
+      }
+    }
+
+    
+  
+    
+  
   
